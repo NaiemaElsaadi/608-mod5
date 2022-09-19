@@ -1,5 +1,5 @@
 # 608-mod5 
-Chapter 7 - Array-Oriented Programming with NumPy - and execute the examples
+**Chapter 7 - Array-Oriented Programming with NumPy - and execute the examples
 
 7.1 Introduction
 7.2 Creating arrays from Existing Data
